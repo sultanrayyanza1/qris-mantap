@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sultanrayyanza1.github.io/qris-mantap/sitemap.xml
